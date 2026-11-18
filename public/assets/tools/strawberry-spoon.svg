@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs><linearGradient id="wood" x1="19" y1="80" x2="48" y2="48" gradientUnits="userSpaceOnUse"><stop stop-color="#B9783D"/><stop offset="1" stop-color="#E5B778"/></linearGradient><linearGradient id="steel" x1="44" y1="18" x2="83" y2="58" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFDF8"/><stop offset=".55" stop-color="#D8E0E3"/><stop offset="1" stop-color="#AAB6BC"/></linearGradient><linearGradient id="berry" x1="59" y1="28" x2="64" y2="53" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8790"/><stop offset="1" stop-color="#D63853"/></linearGradient></defs>
+  <ellipse cx="51" cy="84" rx="30" ry="5" fill="#55391F" fill-opacity=".12"/><path d="m45 53-26 26" stroke="#A96C3E" stroke-width="13" stroke-linecap="round"/><path d="m45 53-26 26" stroke="url(#wood)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M43 36c-1-13 5-25 16-31 12-6 26-1 32 11 6 12 2 26-9 35-10 8-24 8-33-1-4-4-6-9-6-14Z" fill="url(#steel)" stroke="#84939A" stroke-width="2.5"/>
+  <path d="M62 26c-6-6-12-2-9 4-7-1-10 5-5 9 5 4 15 3 19-2 4-4 1-10-5-11Z" fill="#73975D"/><path d="M63 32c-7-4-14 0-13 7 1 7 7 14 12 17 6-3 12-10 12-16 0-7-6-11-11-8Z" fill="url(#berry)" stroke="#B92B49" stroke-width="1.5"/><g fill="#FFE8AE"><ellipse cx="57" cy="40" rx="1" ry="1.5"/><ellipse cx="68" cy="39" rx="1" ry="1.5"/><ellipse cx="61" cy="47" rx="1" ry="1.5"/><ellipse cx="69" cy="48" rx="1" ry="1.5"/></g>
+  <path d="M51 25c5-4 12-4 17-1" stroke="#FFF" stroke-linecap="round" stroke-width="2.5"/>
+</svg>

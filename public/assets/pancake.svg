@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none">
+  <defs>
+    <linearGradient id="crust" x1="52" y1="35" x2="263" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6CF7D"/>
+      <stop offset=".55" stop-color="#E9A94F"/>
+      <stop offset="1" stop-color="#C97735"/>
+    </linearGradient>
+    <radialGradient id="center" cx="0" cy="0" r="1" gradientTransform="matrix(0 95 -154 0 160 60)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE7A2"/>
+      <stop offset=".72" stop-color="#F4C66F"/>
+      <stop offset="1" stop-color="#E6A14A"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="160" cy="110" rx="151" ry="78" fill="#9E542B" fill-opacity=".2"/>
+  <ellipse cx="160" cy="101" rx="151" ry="78" fill="#B96730"/>
+  <ellipse cx="160" cy="94" rx="147" ry="75" fill="url(#crust)"/>
+  <ellipse cx="160" cy="87" rx="136" ry="65" fill="url(#center)"/>
+  <path d="M56 77c19-25 46-37 75-38" stroke="#FFF0C3" stroke-linecap="round" stroke-opacity=".62" stroke-width="7"/>
+  <path d="M75 132c24 13 52 19 80 18" stroke="#D98A3C" stroke-linecap="round" stroke-opacity=".32" stroke-width="5"/>
+  <g fill="#B96A32" fill-opacity=".3">
+    <circle cx="112" cy="81" r="3"/>
+    <circle cx="139" cy="119" r="2.5"/>
+    <circle cx="185" cy="72" r="3"/>
+    <circle cx="214" cy="105" r="2.5"/>
+    <circle cx="242" cy="88" r="2"/>
+    <circle cx="91" cy="101" r="2"/>
+    <circle cx="171" cy="99" r="2"/>
+    <circle cx="201" cy="126" r="2"/>
+  </g>
+</svg>

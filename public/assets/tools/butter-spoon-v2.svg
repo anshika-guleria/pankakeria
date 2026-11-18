@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 94.646 94.646" fill="none">
+  <defs><linearGradient id="wood" x1="27" y1="7" x2="62" y2="88" gradientUnits="userSpaceOnUse"><stop stop-color="#E6BD82"/><stop offset="1" stop-color="#B9783D"/></linearGradient><linearGradient id="butter" x1="40" y1="17" x2="54" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE98F"/><stop offset="1" stop-color="#E7AD37"/></linearGradient></defs>
+  <path d="M61.99 25c0-12.012-6.566-25-14.667-25-8.101 0-14.667 12.988-14.667 25 0 10.463 4.984 16.731 11.623 18.174-1.141 9.857-1.873 23.641-1.873 33.805 0 17.627 2.201 17.666 4.917 17.666s4.917-.039 4.917-17.666c0-10.164-.732-23.947-1.873-33.805C57.005 41.731 61.99 35.463 61.99 25Z" fill="url(#wood)" stroke="#9B6337" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M47.323 4c-5.7 0-10.2 10.4-10.2 20.8 0 8 3.9 13.3 10.2 13.3s10.2-5.3 10.2-13.3C57.523 14.4 53.023 4 47.323 4Z" fill="#FFF0D5" stroke="#D6A76C" stroke-width="1.4"/>
+  <path d="m40.5 22 9-5 7.5 4.5-9.5 4-7-3.5Z" fill="#FFF3BD"/><path d="m40.5 22 9-5 7.5 4.5v7l-9.5 4-7-4v-6.5Z" fill="url(#butter)" stroke="#D19735" stroke-width="1" stroke-linejoin="round"/><path d="m47.5 26.5 9.5-5v7l-9.5 4v-6Z" fill="#D99D31" fill-opacity=".5"/>
+  <path d="M47.3 47c1.2 15 1.4 31 1 42" stroke="#F4D8AF" stroke-linecap="round" stroke-width="2"/>
+</svg>

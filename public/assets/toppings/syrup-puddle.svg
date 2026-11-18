@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" fill="none">
+  <defs>
+    <linearGradient id="syrup" x1="18" x2="76" y1="13" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7C75C"/>
+      <stop offset=".42" stop-color="#D98924"/>
+      <stop offset="1" stop-color="#A95217"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="26" x2="59" y1="18" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF2B9" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#FFF2B9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M12 35c-1-7 6-11 13-12 5-1 8-8 16-9 8-1 12 5 18 5 8 0 17-4 23 2 5 5 1 10 4 15 3 6-2 13-10 14-8 1-12 5-21 4-8-1-13 3-22 1-8-2-18-1-22-7-3-4 2-8 1-13Z" fill="#81400F" opacity=".24" transform="translate(0 3)"/>
+  <path d="M10 32c-1-7 6-11 13-12 5-1 8-8 16-9 8-1 12 5 18 5 8 0 17-4 23 2 5 5 1 10 4 15 3 6-2 13-10 14-8 1-12 5-21 4-8-1-13 3-22 1-8-2-18-1-22-7-3-4 2-8 1-13Z" fill="url(#syrup)" stroke="#9B5119" stroke-width="2"/>
+  <path d="M25 24c5-5 8-7 15-8 5-.5 8 2 12 4" stroke="url(#shine)" stroke-linecap="round" stroke-width="5"/>
+  <ellipse cx="69" cy="25" fill="#FFE6A0" opacity=".65" rx="3" ry="2" transform="rotate(-24 69 25)"/>
+</svg>

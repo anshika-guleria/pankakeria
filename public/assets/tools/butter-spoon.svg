@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs><linearGradient id="wood" x1="19" y1="80" x2="48" y2="48" gradientUnits="userSpaceOnUse"><stop stop-color="#B9783D"/><stop offset="1" stop-color="#E5B778"/></linearGradient><linearGradient id="steel" x1="44" y1="18" x2="83" y2="58" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFDF8"/><stop offset=".55" stop-color="#D8E0E3"/><stop offset="1" stop-color="#AAB6BC"/></linearGradient><linearGradient id="butter" x1="54" y1="27" x2="75" y2="49" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE98F"/><stop offset="1" stop-color="#E7AD37"/></linearGradient></defs>
+  <ellipse cx="51" cy="84" rx="30" ry="5" fill="#55391F" fill-opacity=".12"/><path d="m45 53-26 26" stroke="#A96C3E" stroke-width="13" stroke-linecap="round"/><path d="m45 53-26 26" stroke="url(#wood)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M43 36c-1-13 5-25 16-31 12-6 26-1 32 11 6 12 2 26-9 35-10 8-24 8-33-1-4-4-6-9-6-14Z" fill="url(#steel)" stroke="#84939A" stroke-width="2.5"/>
+  <path d="m52 32 15-6 12 7-16 6-11-7Z" fill="#FFF1B6"/><path d="m52 32 15-6 12 7v10l-16 6-11-6V32Z" fill="url(#butter)" stroke="#D19735" stroke-width="1.5" stroke-linejoin="round"/><path d="m63 39 16-6v10l-16 6V39Z" fill="#D99D31" fill-opacity=".55"/><path d="m55 34 10-4" stroke="#FFF9D1" stroke-linecap="round" stroke-width="2"/>
+  <path d="M51 25c5-4 12-4 17-1" stroke="#FFF" stroke-linecap="round" stroke-width="2.5"/>
+</svg>

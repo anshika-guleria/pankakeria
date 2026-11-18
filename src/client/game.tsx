@@ -58,6 +58,7 @@ type DraggedTool = {
   topping: Topping;
   x: number;
   y: number;
+  pancakePoint: PancakePoint | null;
   isOverPancake: boolean;
 };
 
@@ -321,6 +322,7 @@ export const App = () => {
       topping,
       x: event.clientX,
       y: event.clientY,
+      pancakePoint: null,
       isOverPancake: false,
     });
     setFeedback('');
@@ -342,6 +344,7 @@ export const App = () => {
         ...current,
         x: event.clientX,
         y: event.clientY,
+        pancakePoint: point,
         isOverPancake: point !== null,
       };
     });
@@ -550,13 +553,7 @@ export const App = () => {
     setFeedback('');
   };
 
-  const draggedPoint = draggedTool
-    ? getPancakePoint(
-        pancakeRef.current?.getBoundingClientRect(),
-        draggedTool.x,
-        draggedTool.y
-      )
-    : null;
+  const draggedPoint = draggedTool?.pancakePoint ?? null;
 
   return (
     <main
